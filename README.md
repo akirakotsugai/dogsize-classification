@@ -10,7 +10,6 @@ After that, for each dog we must find the closest group by its center and
 add the dog to the group. When all dogs have already been classified, we must
 retweak the center of the group, repeating the process until there is
 no or very short move of the center compared to its previous position.
-notes: all variables and comments were written in portuguese.
 
 ### pt-br
 Esse programa se utiliza do algoritmo k-medias para à partir de uma base de dados de cães com altura e peso,
