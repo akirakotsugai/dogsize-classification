@@ -21,9 +21,10 @@ e agrupar todos os cachorros. Depois, para cada cachorro encontrar qual grupo (C
 incluí-lo ao grupo. Depois que todos elementos (cachorros) já estiverem sidos agrupados, reajustar a posição central
 de todos os grupos. Repetir o processo até que haja muito pouco ou nenhum deslocamento do centro comparado à posição anterior.
 
-## Instalation
+## Installation
 ```
 sudo apt-get install python3
+sudo apt-get install python3-tk
 pip3 install matplotlib
 
 ```
